@@ -14,13 +14,13 @@ Vir podatkov: https://pxweb.stat.si/pxweb/Database/Dem_soc/Dem_soc.asp
 
 Tabele:
 
-*tabela 1: Notranje selitve po regijah(leto, regija, odselitve, priselitve)
-*tabela 2: Notranje selitve po starostnih skupinah(leto, starostne skupine)
-*tabela 3: Prenaseljenost(leto, regija, stopnja prenaseljenosti stanovanja(%))
-*tabela 4: Stanovanjske razmere (leto, regija, slabo stanje stanovanja,ni
+* tabela 1: Notranje selitve po regijah(leto, regija, odselitve, priselitve)
+* tabela 2: Notranje selitve po starostnih skupinah(leto, starostne skupine)
+* tabela 3: Prenaseljenost(leto, regija, stopnja prenaseljenosti stanovanja(%))
+* tabela 4: Stanovanjske razmere (leto, regija, slabo stanje stanovanja,ni
            primernega ogrevanja,premalo svetlobe, težave s hrupom, onesnaženost
            okolja, prisotnost kriminala)
-*tabela 5: Stanovanjski stroški(leto, regija, veliko breme, srednje veliko breme,
+* tabela 5: Stanovanjski stroški(leto, regija, veliko breme, srednje veliko breme,
            niso breme)           
 
 ## Program
